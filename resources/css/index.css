@@ -1,0 +1,79 @@
+/* General Rules */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #EEEEEE;
+  color: #414141;
+
+  font-size: 17px;
+  font-family: Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+
+  min-width: 320px;
+}
+
+p {
+  margin-bottom: .5em;
+}
+
+a {
+  color: #5995DA;
+  text-decoration: none;
+
+  padding-bottom: .1em;
+}
+
+a:hover {
+  color: #78A8DF;
+  border-bottom: 1.3px solid #78A8DF;
+}
+
+abbr {
+  text-decoration: none;
+  padding-bottom: .1em;
+  border-bottom: 1px dotted #414141;
+}
+
+ul,
+ol {
+  list-style-position: inside;
+}
+
+/* || Specif Rules*/
+.page {
+  max-width: 900px;
+
+  padding: 0 2em;
+  margin: 0 auto;
+}
+
+.profile {
+  padding: 1em 0;
+  margin-bottom: 1em;
+  border-bottom: 1px solid #5D6063;
+}
+
+.contact {
+  margin-bottom: 2em;
+}
+
+.contact__list {
+  list-style: none;
+}
+
+.cv-section {
+  margin-bottom: 4em;
+}
+
+.cv-section__company {
+  margin-bottom: 2em;
+}
+
+.copyright {
+  text-align: center;
+  margin: 3em 0 1em 0;
+}
