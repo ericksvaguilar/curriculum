@@ -53,10 +53,16 @@ ol {
   margin: 0 auto;
 }
 
+.profile,
+.copyright {
+  text-shadow: 0 2px 2px rgba(168, 167, 167, 0.329);
+}
+
 .profile {
   padding: 1em 0;
   margin-bottom: 1em;
-  border-bottom: 1px solid #5D6063;
+  border-bottom: 1px solid #5d60638f;
+  text-shadow: 0 2px 2px rgba(168, 167, 167, 0.329);
 }
 
 .contact {
