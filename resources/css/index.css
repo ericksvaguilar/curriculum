@@ -65,6 +65,10 @@ ol {
   text-shadow: 0 2px 2px rgba(168, 167, 167, 0.329);
 }
 
+.profile__name {
+  font-size: 2.6em;
+}
+
 .contact {
   margin-bottom: 2em;
 }
