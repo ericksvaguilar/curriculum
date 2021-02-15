@@ -2,4 +2,4 @@
 # Curriculum
  My personal CV
 
-[erickaguilar.com.br/curriculum](https://erickaguilar.com.br/curriculum)
+curriculum.erickaguilar.com.br
