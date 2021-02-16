@@ -10,7 +10,7 @@
 }
 
 body {
-  background-color: #EEEEEE;
+  background-color: #eeeeee;
   color: #414141;
 
   font-size: 17px;
@@ -21,24 +21,24 @@ body {
 }
 
 p {
-  margin-bottom: .5em;
+  margin-bottom: 0.5em;
 }
 
 a {
-  color: #5995DA;
+  color: #5995da;
   text-decoration: none;
 
-  padding-bottom: .1em;
+  padding-bottom: 0.1em;
 }
 
 a:hover {
-  color: #78A8DF;
-  border-bottom: 1.3px solid #78A8DF;
+  color: #78a8df;
+  border-bottom: 1.3px solid #78a8df;
 }
 
 abbr {
   text-decoration: none;
-  padding-bottom: .1em;
+  padding-bottom: 0.1em;
   border-bottom: 1px dotted #414141;
 }
 
@@ -89,4 +89,12 @@ ol {
 .copyright {
   text-align: center;
   margin: 3em 0 1em 0;
+}
+
+.formation-description {
+  margin-bottom: 2.5rem;
+}
+
+.courses-description {
+  margin-bottom: 1rem;
 }
